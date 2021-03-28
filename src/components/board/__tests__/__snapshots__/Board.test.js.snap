@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot some movement 1`] = `
+<div>
+  <div
+    className="board-row"
+  >
+    <button
+      className="square"
+      data-testid="square"
+      onClick={[Function]}
+    >
+      X
+    </button>
+    <button
+      className="square"
+      data-testid="square"
+      onClick={[Function]}
+    >
+      O
+    </button>
+    <button
+      className="square"
+      data-testid="square"
+      onClick={[Function]}
+    >
+      X
+    </button>
+  </div>
+  <div
+    className="board-row"
+  >
+    <button
+      className="square"
+      data-testid="square"
+      onClick={[Function]}
+    />
+    <button
+      className="square"
+      data-testid="square"
+      onClick={[Function]}
+    />
+    <button
+      className="square"
+      data-testid="square"
+      onClick={[Function]}
+    />
+  </div>
+  <div
+    className="board-row"
+  >
+    <button
+      className="square"
+      data-testid="square"
+      onClick={[Function]}
+    />
+    <button
+      className="square"
+      data-testid="square"
+      onClick={[Function]}
+    />
+    <button
+      className="square"
+      data-testid="square"
+      onClick={[Function]}
+    />
+  </div>
+</div>
+`;
